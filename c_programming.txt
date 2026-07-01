@@ -225,4 +225,12 @@ operator : if we want to perform any operations
     (,) comma operator  
     (&) address operator 
     (*) value at operator 
+
+control statement : 
+     1) conditional statements
+     2) looping statements
+     3) jumping statements
+
+   1) conditional statements :
+   
     
