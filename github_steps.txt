@@ -6,7 +6,7 @@ step 3 : Create a new repository
 
         Enter repository name : 18-jun-2026
 
-        Enter description : .... 
+         Enter description : .... 
 
 step 4 : click on green button create repository 
 
